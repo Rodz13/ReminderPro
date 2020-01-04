@@ -13,3 +13,8 @@ Start date 30.12.2019
 - create react-app client
  - dependencis:
     - axios: https://flaviocopes.com/axios/
+
+  
+- create-react-app
+- redux 
+- react-redux
